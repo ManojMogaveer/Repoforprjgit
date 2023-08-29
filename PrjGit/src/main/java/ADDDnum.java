@@ -11,4 +11,6 @@ public class ADDDnum {
 		System.out.print(c);
 	}
 //pull back
+	
+	//push
 }
